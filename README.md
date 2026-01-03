@@ -27,6 +27,6 @@ Detail-oriented, adaptable, and eager to grow in analytics-driven environments.
   </a>
   &nbsp;&nbsp;
   <a href="mailto:faizaallailynasron@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30" />
   </a>
 </p>
