@@ -29,5 +29,5 @@ Detail-oriented, adaptable, and eager to grow in analytics-driven environments.
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizaallailynasron)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:faizaallailynasron@gmail.com)
