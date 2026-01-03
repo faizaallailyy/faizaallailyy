@@ -21,5 +21,12 @@ Detail-oriented, adaptable, and eager to grow in analytics-driven environments.
 - **Statistical Tools:** SPSS  
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizaallailynasron)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:faizaallailynasron@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/faizaallailynasron">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:faizaallailynasron@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" />
+  </a>
+</p>
