@@ -15,20 +15,10 @@ Detail-oriented, adaptable, and eager to grow in analytics-driven environments.
 - Dashboarding & Reporting  
 
 ### 🔧 Tools & Technologies
-
-**Data Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=google-sheets&logoColor=white)
-
-**Data Visualization & BI**
-  
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-
+- **Programming & Query:** Python, SQL  
+- **Spreadsheets:** Microsoft Excel, Google Sheets  
+- **Data Visualization & BI:** Power BI, Tableau, Looker Studio  
+- **Statistical Tools:** SPSS  
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizaallailynasron)
