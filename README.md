@@ -1,7 +1,4 @@
-## Hi, I'm Faiza 👋
-
-🎓 Mathematics Graduate  
-📊 Data Analytics Enthusiast  
+## Hi, I'm Faiza 👋  
 
 An analytical Mathematics graduate with hands-on experience in data processing, validation, and reporting across large-scale datasets.
 Skilled in transforming raw data into structured insights using Excel, Google Sheets, SQL, and BI tools.
